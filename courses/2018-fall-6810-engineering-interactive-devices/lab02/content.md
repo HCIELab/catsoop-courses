@@ -63,6 +63,12 @@ Save your drawing to a USB stick and go to the laser cutter computer.
     <figcaption>A Laser Cutter (Universal Laser System PLS150D</figcaption>
 </figure>
 
+<subsection>Useful Tricks When Creating a Drawing for Lasercutting</subsection>
+
+Often you may use a laser cutter to make 3D objects such as a box (after all, it is much faster and cheaper than 3D printing). If you are using finger joints for pieces that you want to fit together, it is a good idea to leave just a little bit of wiggle room so that things can come together. Make each tooth .005" smaller on each side. This usually allows a good press fit.
+
+If all you want is a box, you can use [Makercase](http://www.makercase.com/) to automatically create your box design.
+
 <subsection>Send your Drawing to the Laser Cutter Software</subsection>
 
 Open your drawing on the laser cutter computer and go to File -> Print. 
@@ -143,6 +149,8 @@ You can also order your materials online! You might be able to order with free s
 
 <section>On Campus Laser Cutters</section>
 
+TODO: Figure out exactly how this is going to work
+
 By taking this class, you will have access to the IDC and EDS laser cutters. (?)
 
 - IDC: Once you have card access, you will be able to use the shop 8am-5pm Mon-Fri, and the main space 24/7
@@ -161,6 +169,6 @@ Here are some alternatives to Illistrator:
 
 <section>Operating Different Types of Laser Cutters</section>
 
-You will likely need to be trained on every new laser cutter you want to use. These guidelines will help you use most laser cutters and should work fine for the laser cutters in the IDC and EDS.
+TODO: Figure out what information needs to be added here.
 
-XXX
+You will likely need to be trained on every new laser cutter you want to use. These guidelines will help you use most laser cutters and should work fine for the laser cutters in the IDC and EDS.
