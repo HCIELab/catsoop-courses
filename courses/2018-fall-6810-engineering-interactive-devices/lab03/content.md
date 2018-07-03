@@ -21,7 +21,7 @@ var whereat = "%s";
 </python>
 
 
-<goals><b>Goals:</b> In this lab we're going to build some simple LEDs, resistors, and switches, and then build an audio amplifier...we can then plug in our phones (if you have a 3.5 mm plug) or use the Raspberry Pi to play some music.  Next week we'll use Python to build a simple music player (with play/pause/scan/volume controls). </goals>
+<goals><b>Goals:</b> In this tutorial, we are describing how you can create or find, and then print 3D objects. </goals>
 
 <section>Hardware</section>
 
