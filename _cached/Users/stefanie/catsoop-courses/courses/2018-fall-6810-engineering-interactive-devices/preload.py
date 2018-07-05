@@ -92,24 +92,10 @@ cs_top_menu = [
                                     ]},
     {'text': 'Group Project', 'link': 'COURSE/progress'},
     {'text': 'Homework', 'link': [{'text': 'Lasercut Businesscard (Due: 9/26/2018)', 'link': 'COURSE/hw-lasercut-business-card'},
-                            {'text': 'Ex 02 (Due: 6/28/2018)', 'link': 'COURSE/ex02'},
-                            {'text': 'Ex 03 (Due: 7/01/2018)', 'link': 'COURSE/ex03'},
-                            {'text': 'Ex 04 (Due: 7/03/2018)', 'link': 'COURSE/ex04'},
-                            {'text': 'Ex 05 (Due: 7/05/2018)', 'link': 'COURSE/ex05'},
-                            {'text': 'Ex 06 (Due: 7/08/2018)', 'link': 'COURSE/ex06'},
-                            {'text': 'Ex 07 (Due: 7/10/2018)', 'link': 'COURSE/ex07'},
-                            {'text': 'Ex 08 (Due: 7/12/2018)', 'link': 'COURSE/ex08'},
-                            {'text': 'Ex 09 (Due: 7/15/2018)', 'link': 'COURSE/ex09'},
                                       ]},
-    {'text': 'Tutorials', 'link': [{'text': 'Lab 1', 'link': 'COURSE/lab01'},
-                              {'text': 'Lab 2', 'link': 'COURSE/lab02'},
-                              {'text': 'Lab 3', 'link': 'COURSE/lab03'},
-                              {'text': 'Lab 4', 'link': 'COURSE/lab04'},
-                              {'text': 'Lab 5', 'link': 'COURSE/lab05'},
-                              {'text': 'Lab 6', 'link': 'COURSE/lab06'},
-                              {'text': 'Lab 7', 'link': 'COURSE/lab07'},
-                              {'text': 'Lab 8', 'link': 'COURSE/lab08'},
-                              {'text': 'Lab 9', 'link': 'COURSE/lab09'},
+    {'text': 'Tutorials', 'link': [
+                              {'text': 'How to Lasercut', 'link': 'COURSE/tutorial-laser-cutting'},
+                              {'text': 'How to 3D Print', 'link': 'COURSE/tutorial-3d-printing'},
                                     ]}
 ]
 
