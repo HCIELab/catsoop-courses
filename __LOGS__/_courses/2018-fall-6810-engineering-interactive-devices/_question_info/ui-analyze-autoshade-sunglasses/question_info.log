@@ -1,0 +1,8 @@
+{'timestamp': 1530823992.6368196,
+ 'questions': OrderedDict([('q000000',
+               {'csq_npoints': 1,
+                'csq_name': 'q000000',
+                'csq_display_name': 'Tutor Question 1 in Section ',
+                'qtype': 'bigbox',
+                'csq_grading_mode': 'auto'})])}
+
